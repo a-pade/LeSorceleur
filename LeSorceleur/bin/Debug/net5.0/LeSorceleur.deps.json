@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LeSorceleur/1.0.0": {
+        "dependencies": {
+          "LeSorceleur.Core": "1.0.0"
+        },
+        "runtime": {
+          "LeSorceleur.dll": {}
+        }
+      },
+      "LeSorceleur.Core/1.0.0": {
+        "runtime": {
+          "LeSorceleur.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeSorceleur/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LeSorceleur.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

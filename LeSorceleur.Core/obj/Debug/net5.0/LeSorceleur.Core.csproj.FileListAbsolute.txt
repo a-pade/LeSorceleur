@@ -1,0 +1,12 @@
+/Volumes/Antoine/Epsi/I1/Architecture Applicatives/LeSorceleur/LeSorceleur.Core/bin/Debug/net5.0/LeSorceleur.Core.deps.json
+/Volumes/Antoine/Epsi/I1/Architecture Applicatives/LeSorceleur/LeSorceleur.Core/bin/Debug/net5.0/LeSorceleur.Core.dll
+/Volumes/Antoine/Epsi/I1/Architecture Applicatives/LeSorceleur/LeSorceleur.Core/bin/Debug/net5.0/ref/LeSorceleur.Core.dll
+/Volumes/Antoine/Epsi/I1/Architecture Applicatives/LeSorceleur/LeSorceleur.Core/bin/Debug/net5.0/LeSorceleur.Core.pdb
+/Volumes/Antoine/Epsi/I1/Architecture Applicatives/LeSorceleur/LeSorceleur.Core/obj/Debug/net5.0/LeSorceleur.Core.csproj.AssemblyReference.cache
+/Volumes/Antoine/Epsi/I1/Architecture Applicatives/LeSorceleur/LeSorceleur.Core/obj/Debug/net5.0/LeSorceleur.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Antoine/Epsi/I1/Architecture Applicatives/LeSorceleur/LeSorceleur.Core/obj/Debug/net5.0/LeSorceleur.Core.AssemblyInfoInputs.cache
+/Volumes/Antoine/Epsi/I1/Architecture Applicatives/LeSorceleur/LeSorceleur.Core/obj/Debug/net5.0/LeSorceleur.Core.AssemblyInfo.cs
+/Volumes/Antoine/Epsi/I1/Architecture Applicatives/LeSorceleur/LeSorceleur.Core/obj/Debug/net5.0/LeSorceleur.Core.csproj.CoreCompileInputs.cache
+/Volumes/Antoine/Epsi/I1/Architecture Applicatives/LeSorceleur/LeSorceleur.Core/obj/Debug/net5.0/LeSorceleur.Core.dll
+/Volumes/Antoine/Epsi/I1/Architecture Applicatives/LeSorceleur/LeSorceleur.Core/obj/Debug/net5.0/ref/LeSorceleur.Core.dll
+/Volumes/Antoine/Epsi/I1/Architecture Applicatives/LeSorceleur/LeSorceleur.Core/obj/Debug/net5.0/LeSorceleur.Core.pdb

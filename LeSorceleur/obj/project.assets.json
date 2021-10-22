@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "LeSorceleur.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/LeSorceleur.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LeSorceleur.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LeSorceleur.Core/1.0.0": {
+      "type": "project",
+      "path": "../LeSorceleur.Core/LeSorceleur.Core.csproj",
+      "msbuildProject": "../LeSorceleur.Core/LeSorceleur.Core.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "LeSorceleur.Core >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/padeantoine/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Volumes/Antoine/Epsi/I1/Architecture Applicatives/LeSorceleur/LeSorceleur/LeSorceleur.csproj",
+      "projectName": "LeSorceleur",
+      "projectPath": "/Volumes/Antoine/Epsi/I1/Architecture Applicatives/LeSorceleur/LeSorceleur/LeSorceleur.csproj",
+      "packagesPath": "/Users/padeantoine/.nuget/packages/",
+      "outputPath": "/Volumes/Antoine/Epsi/I1/Architecture Applicatives/LeSorceleur/LeSorceleur/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/padeantoine/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "/Volumes/Antoine/Epsi/I1/Architecture Applicatives/LeSorceleur/LeSorceleur.Core/LeSorceleur.Core.csproj": {
+              "projectPath": "/Volumes/Antoine/Epsi/I1/Architecture Applicatives/LeSorceleur/LeSorceleur.Core/LeSorceleur.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
